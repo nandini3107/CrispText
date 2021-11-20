@@ -16,7 +16,7 @@ Click on the link to test this app: https://crisptext.herokuapp.com/
 <center>
 <img src = "https://firebasestorage.googleapis.com/v0/b/bikengo-b86b3.appspot.com/o/crisp_ss.png?alt=media&token=6c2a5c59-0e45-495b-8606-82a19fb40a68">
 <br>
-<img src = "https://firebasestorage.googleapis.com/v0/b/bikengo-b86b3.appspot.com/o/crisp_ss1.png?alt=media&token=b677254f-9f84-4cf1-a358-e9f24b9af2d1">
+<img src = "https://firebasestorage.googleapis.com/v0/b/bikengo-b86b3.appspot.com/o/crisp_ss1.png?alt=media&token=da2c478c-81ba-4767-8568-b661c0e5fbe7">
 </center>
 <br>
 
