@@ -8,6 +8,7 @@ Click on the link to test this app: https://crisptext.herokuapp.com/
 # Methodology
 <center>
 <img src = "https://firebasestorage.googleapis.com/v0/b/bikengo-b86b3.appspot.com/o/m1.jpeg?alt=media&token=8142e899-3deb-42bc-9844-8357b2231686">
+ </center>
 <br>
 <img src = "https://firebasestorage.googleapis.com/v0/b/bikengo-b86b3.appspot.com/o/m2.jpeg?alt=media&token=963d1e2d-559c-4867-b2c1-e195d61dec20">
 </center>
